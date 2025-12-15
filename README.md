@@ -21,7 +21,7 @@ I am a Data Analyst with internship experience and a strong foundation in SQL, P
 - Wrote complex SQL queries using JOINs, GROUP BY, HAVING, and window functions to solve real-world library use cases.
 - Optimized query performance using indexing and constraints.
 
-🔗 GitHub: https://github.com/yourusername/library-management-system  
+🔗 GitHub: [https://github.com/yourusername/library-management-system  ](https://github.com/G-prashanth6454/sql-library-database-optimization)
 
 ---
 
@@ -31,7 +31,7 @@ I am a Data Analyst with internship experience and a strong foundation in SQL, P
 - Built 10+ visualizations using Matplotlib and Seaborn to uncover key insights.
 - Analyzed correlations between features such as area, location, and price.
 
-🔗 GitHub: https://github.com/yourusername/real-estate-analysis  
+🔗 GitHub: [https://github.com/yourusername/real-estate-analysis ](https://github.com/G-prashanth6454/EDA_project) 
 
 ---
 
@@ -43,7 +43,6 @@ I am a Data Analyst with internship experience and a strong foundation in SQL, P
 - Built Power BI dashboards to monitor retention KPIs and support proactive churn management.
 - Developed a Customer Lifetime Value (CLTV) forecasting model for personalized engagement strategies.
 
-🔗 GitHub: https://github.com/yourusername/customer-churn-analysis  
 
 ---
 
@@ -53,8 +52,7 @@ I am a Data Analyst with internship experience and a strong foundation in SQL, P
 - Created calculated columns and measures using DAX for key metrics.
 - Designed stakeholder-friendly visuals including line charts, maps, and slicers.
 
-🔗 GitHub: https://github.com/yourusername/powerbi-life-expectancy-dashboard  
-
+ 
 ---
 
 ## Contact
